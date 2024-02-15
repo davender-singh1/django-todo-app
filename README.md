@@ -1,3 +1,7 @@
+## Employee Directory
+![alt text](image.png)
+
+![alt text](image-1.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
