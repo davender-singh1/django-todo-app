@@ -1,11 +1,14 @@
-## Employee Directory
-![alt text](image.png)
+## Django ToDo App
+![image](https://github.com/davender-singh1/django-todo-app/assets/106000634/c8e62982-b2e3-4514-a87c-39bd2ee314dd)
 
-![alt text](image-1.png)
+![image](https://github.com/davender-singh1/django-todo-app/assets/106000634/898361e4-517e-4fef-9fb7-9acdd0d94813)
+
+![image](https://github.com/davender-singh1/django-todo-app/assets/106000634/531ebca2-9a6f-4ffb-a4cd-7bbb80333ffe)
+
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
-$ git clone https://github.com/davender-singh1/django_basics-employee_directory.git
+$ git clone https://github.com/davender-singh1/django-todo-app.git
 ```
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
