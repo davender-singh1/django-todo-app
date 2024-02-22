@@ -1,9 +1,13 @@
 ## Django ToDo App
+
 ![image](https://github.com/davender-singh1/django-todo-app/assets/106000634/c8e62982-b2e3-4514-a87c-39bd2ee314dd)
 
 ![image](https://github.com/davender-singh1/django-todo-app/assets/106000634/898361e4-517e-4fef-9fb7-9acdd0d94813)
 
 ![image](https://github.com/davender-singh1/django-todo-app/assets/106000634/531ebca2-9a6f-4ffb-a4cd-7bbb80333ffe)
+
+### Video Demo:
+https://youtu.be/YNIF78I6KAo?si=6g7mi6VK-5QwtS2S
 
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
